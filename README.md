@@ -1,0 +1,2 @@
+-Basicamente,este reposítorio é para mostrar e arquivar meus passos inicias em JavaScript.
+-Obrigado e tenham paciência :^)
